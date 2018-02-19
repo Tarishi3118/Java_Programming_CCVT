@@ -1,5 +1,5 @@
 package com.rt.anonomousclass;
-//This is a Test Class
+//Test Class for Anonymous Class Creation
 public class TestClass {
 
 	public static void main(String[] args) {
